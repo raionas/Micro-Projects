@@ -1,5 +1,5 @@
 # Micro-Projects
-Mini projects completed from udemy
+Mini projects completed from udemy employing R, Python and ML (Machine Learning)
 # Files
 # Financial-Data-Analyis.ipynb
 About: Analysed financial figures on an exploratory nature such as which months achieved the highest profit after tax deductions, highest months for expenses and revenues incurred which transalates to good and bad months. 
