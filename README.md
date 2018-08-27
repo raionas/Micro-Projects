@@ -10,4 +10,4 @@ udemy.com
 # Course name: 
 Python A-Z™: Python For Data Science With Real Exercises!
 # Future work: 
-Use Supervised Learning techniques such to predict the profit of the upcoming years.
+Use Supervised Learning techniques such as Decision Trees to predict the profit of the upcoming years.
