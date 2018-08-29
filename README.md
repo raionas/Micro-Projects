@@ -2,7 +2,7 @@
 Mini projects completed from udemy employing R, Python and ML (Machine Learning)
 
 #### Description: 
-Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization
+Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization.
 All are compiled thru jupyter notebooks.
 
 #### Files:
