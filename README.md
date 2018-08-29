@@ -1,6 +1,10 @@
 ## Micro-Projects
 Mini projects completed from udemy employing R, Python and ML (Machine Learning)
 
+#### Description: 
+Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization
+All are compiled thru jupyter notebooks.
+
 #### Files:
 
 ##### (1) Financial-Data-Analyis.ipynb
@@ -10,10 +14,6 @@ About: Analysed financial figures on an exploratory nature such as which months 
 ##### (2) MicroProject-NBA-In-Game-Statistics.ipynb
 
 About: Analysed In-Game Statistics for an NBA dataset such as Free-throws and how they correlate to each Player's shooting accuracy and what does it translates to have a high free-throw accuracy against a large number of free-throw attemps.
-
-#### Description: 
-Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization
-All are compiled thru jupyter notebooks.
 
 #### Source: 
 
