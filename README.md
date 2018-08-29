@@ -15,6 +15,10 @@ About: Analysed financial figures on an exploratory nature such as which months 
 
 About: Analysed In-Game Statistics for an NBA dataset such as Free-throws and how they correlate to each Player's shooting accuracy and what does it translates to have a high free-throw accuracy against a large number of free-throw attemps.
 
+#### (3) World-Trends.ipynb
+
+About: Data Analysis and Visualisation using seaborn to derive insights on which countries and income group play a major and minor consumer with Internet consumptio. Also, a comparison on how we expect to live during the 1960s and the present age.
+
 #### Source: 
 
 www.udemy.com
