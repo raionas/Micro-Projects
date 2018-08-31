@@ -17,7 +17,7 @@ About: Analysed In-Game Statistics for an NBA dataset such as Free-throws and ho
 
 #### (3) World-Trends.ipynb
 
-About: Data Analysis and Visualisation using seaborn to derive insights on which countries and income group play a major and minor consumer with Internet consumptio. Also, a comparison on how we expect to live during the 1960s and the present age.
+About: Data Analysis and Visualisation using seaborn to derive insights on which countries and income group play a major and minor consumer with Internet consumption. Also, a comparison on how we expect to live during the 1960s and the present age.
 
 #### Source: 
 
